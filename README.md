@@ -11,3 +11,7 @@ Day 2
 https://continuous-fontina-dbc.notion.site/New_Day_03-Java-8f5922f602b7489fa6d18cdb292f04ea
 
 Day 3
+
+https://continuous-fontina-dbc.notion.site/New_Day_04-Java-7e785104879b442c96b71e1dabd80b15
+
+Day 4
