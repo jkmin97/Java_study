@@ -30,3 +30,8 @@ Day 11
 
 https://continuous-fontina-dbc.notion.site/New_Day_15_Java-0dc0cd1430304f1c80708447ecd94942
 
+Day 15
+
+https://continuous-fontina-dbc.notion.site/New_Day_16_Java-15a13032984544c9bcf3acb77cd08bc5
+
+Day 16
