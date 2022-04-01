@@ -35,3 +35,7 @@ Day 15
 https://continuous-fontina-dbc.notion.site/New_Day_16_Java-15a13032984544c9bcf3acb77cd08bc5
 
 Day 16
+
+https://continuous-fontina-dbc.notion.site/New_Day_17_Java-e6d9d8ab8d36469eb7bc5c4a35b825e1
+
+
