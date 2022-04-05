@@ -43,3 +43,6 @@ Day 17
 https://continuous-fontina-dbc.notion.site/New_Day_18_Java-d3b216a3569444ad8fac93e9ecf02d8e
 
 Day 18
+
+https://continuous-fontina-dbc.notion.site/New_Day_19_Java-9a0bdc36bef54913ad8593641a3992d3
+
